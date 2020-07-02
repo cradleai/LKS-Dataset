@@ -1,6 +1,6 @@
 # Liver Kidney Stomach Dataset
 
-This is the official repo for the Liver Kidney Stomach (LKS) whole slide image (WSI) dataset dataset introduced in the paper: [SOS: Selective Objective Switch for Rapid Immunofluorescence Whole Slide Image Classification](https://arxiv.org/abs/2003.05080). The liver auto-antibody LKS screen is critical to the investigation of autoimmune liver disease. This is the first LKS WSI dataset to be made publicly available for research. 
+This is the official repository for the Liver Kidney Stomach (LKS) whole slide image (WSI) dataset dataset introduced in the paper: [SOS: Selective Objective Switch for Rapid Immunofluorescence Whole Slide Image Classification](https://arxiv.org/abs/2003.05080). The liver auto-antibody LKS screen is critical to the investigation of autoimmune liver disease. This is the first LKS WSI dataset to be made publicly available for research. 
 
 # Dataset Creation
 
@@ -22,7 +22,7 @@ The distribution of the dataset and example WSI contents is given below:
 
 The current version of the LKS dataset can be accessed [here](https://rdm.uq.edu.au/files/542dc8a0-7ed2-11ea-9b07-87e97005c7b7).  
 
-The download comprises the 0.14 TB dataset compressed in 7z format. The uncompressed size of the dataset is 0.99 TB. This is considerably larger than dataset size quoted in the associated paper (300GB), as we made the decision to release the raw TIF images instead of the preprocessed image patches. This will allow researchers interested in using the the dataset to study alternative preprocessing methods to those described in our paper.  
+The download comprises the 0.14 TB dataset compressed in 7z format. The uncompressed size of the dataset is 0.99 TB. This is considerably larger than dataset size quoted in the associated paper (300GB), as we made the decision to release the raw TIF images instead of the preprocessed image patches. This will allow researchers interested in using the dataset to study alternative preprocessing methods to those described in our paper.  
 
 # Citation
 Please cite the following paper when using this data for your research:
