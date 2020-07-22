@@ -24,6 +24,32 @@ The current version of the LKS dataset can be accessed [here](https://rdm.uq.edu
 
 The download comprises the 0.14 TB dataset compressed in 7z format. The uncompressed size of the dataset is 0.99 TB. This is considerably larger than dataset size quoted in the associated paper (300GB), as we made the decision to release the raw TIF images instead of the preprocessed image patches. This will allow researchers interested in using the dataset to study alternative preprocessing methods to those described in our paper.  
 
+<div itemscope itemtype="http://schema.org/Dataset">
+  <table>
+    <tr>
+      <th>property</th>
+      <th>value</th>
+    </tr>
+    <tr>
+      <td>name</td>
+      <td><code itemprop="name">Liver Kidney Stomach Dataset</code></td>
+    </tr>
+      <tr>
+      <td>description</td>
+      <td><code itemprop="description">The Liver Kidney Stomach (LKS) dataset introduced in the CVPR2020 paper: "SOS: Selective Objective Switch for Rapid Immunofluorescence Whole Slide Image Classification". Includes 684 Immunofluorescence Whole Slide LKS Images used in the clinical investigation of autoimmune liver disease. </code></td>
+    </tr>
+      <tr>
+      <td>license</td>
+      <td><code itemprop="license">Permitted Re-Use with Acknowledgement.</code></td>
+    </tr>
+    </tr>
+      <tr>
+      <td>sameAs</td>
+      <td><code itemprop="sameAs">https://github.com/cradleai/LKS-Dataset</code></td>
+    </tr>
+  </table>
+</div>
+
 # Citation
 Please cite the following paper when using this data for your research:
 
