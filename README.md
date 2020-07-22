@@ -1,6 +1,6 @@
 # Liver Kidney Stomach Dataset
 
-This is the official repository for the Liver Kidney Stomach (LKS) whole slide image (WSI) dataset dataset introduced in the paper: [SOS: Selective Objective Switch for Rapid Immunofluorescence Whole Slide Image Classification](https://arxiv.org/abs/2003.05080). The liver auto-antibody LKS screen is critical to the investigation of autoimmune liver disease. This is the first LKS WSI dataset to be made publicly available for research. 
+This is the official repository for the Liver Kidney Stomach (LKS) whole slide image (WSI) dataset dataset introduced in the paper: [SOS: Selective Objective Switch for Rapid Immunofluorescence Whole Slide Image Classification](https://openaccess.thecvf.com/content_CVPR_2020/papers/Maksoud_SOS_Selective_Objective_Switch_for_Rapid_Immunofluorescence_Whole_Slide_Image_CVPR_2020_paper.pdf). The liver auto-antibody LKS screen is critical to the investigation of autoimmune liver disease. This is the first LKS WSI dataset to be made publicly available for research. 
 
 # Dataset Creation
 
@@ -39,8 +39,8 @@ The download comprises the 0.14 TB dataset compressed in 7z format. The uncompre
       <td><code itemprop="description">The Liver Kidney Stomach (LKS) dataset introduced in the CVPR2020 paper: "SOS: Selective Objective Switch for Rapid Immunofluorescence Whole Slide Image Classification". Includes 684 Immunofluorescence Whole Slide LKS Images used in the clinical investigation of autoimmune liver disease. </code></td>
     </tr>
        <tr>
-      <td>creator</td>
-      <td><code itemprop="creator">https://orcid.org/0000-0002-6823-2612</code></td>
+      <td>distribution.contentUrl</td>
+      <td><code itemprop="distribution.contentUrl">https://rdm.uq.edu.au/files/542dc8a0-7ed2-11ea-9b07-87e97005c7b7</code></td>
     </tr>
     </tr>
       <tr>
