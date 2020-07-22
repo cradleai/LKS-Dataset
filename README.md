@@ -36,7 +36,7 @@ The download comprises the 0.14 TB dataset compressed in 7z format. The uncompre
     </tr>
       <tr>
       <td>description</td>
-      <td><code itemprop="description">The Liver Kidney Stomach (LKS) dataset introduced in the CVPR2020 paper: "SOS: Selective Objective Switch for Rapid Immunofluorescence Whole Slide Image Classification". Includes 684 Immunofluorescence Whole Slide LKS Images used in the clinical investigation of autoimmune liver disease. </code></td>
+      <td><code itemprop="description">The Liver Kidney Stomach (LKS) dataset introduced in the CVPR2020 paper: SOS: Selective Objective Switch for Rapid Immunofluorescence Whole Slide Image Classification. Includes 684 Immunofluorescence Whole Slide LKS Images used in the clinical investigation of autoimmune liver disease. </code></td>
     </tr>
       <tr>
        <tr>
