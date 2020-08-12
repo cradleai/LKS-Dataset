@@ -1,6 +1,14 @@
 # Liver Kidney Stomach Dataset
 
-This is the official repository for the Liver Kidney Stomach (LKS) whole slide image (WSI) dataset dataset introduced in the paper: [SOS: Selective Objective Switch for Rapid Immunofluorescence Whole Slide Image Classification](https://openaccess.thecvf.com/content_CVPR_2020/papers/Maksoud_SOS_Selective_Objective_Switch_for_Rapid_Immunofluorescence_Whole_Slide_Image_CVPR_2020_paper.pdf). The liver auto-antibody LKS screen is critical to the investigation of autoimmune liver disease. This is the first LKS WSI dataset to be made publicly available for research. 
+This is the official repository for the Liver Kidney Stomach (LKS) whole slide image (WSI) dataset dataset introduced in the CVPR2020 oral paper: [SOS: Selective Objective Switch for Rapid Immunofluorescence Whole Slide Image Classification](https://openaccess.thecvf.com/content_CVPR_2020/papers/Maksoud_SOS_Selective_Objective_Switch_for_Rapid_Immunofluorescence_Whole_Slide_Image_CVPR_2020_paper.pdf). The liver auto-antibody LKS screen is critical to the investigation of autoimmune liver disease. This is the first LKS WSI dataset to be made publicly available for research.
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RuoNHzsqOnM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
 
 # Dataset Creation
 
@@ -73,3 +81,4 @@ Please cite the following paper when using this data for your research:
   year={2020}
 }
 ```
+
