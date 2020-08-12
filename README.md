@@ -4,10 +4,6 @@ This is the official repository for the Liver Kidney Stomach (LKS) whole slide i
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RuoNHzsqOnM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
 
 
 # Dataset Creation
