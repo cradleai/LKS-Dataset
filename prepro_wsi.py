@@ -25,7 +25,7 @@ TARGET_DPATH = "C:/workspace/prepro_lks" #Path to save preprocessed images
 
 def clear_temp():
     """
-    Vips stores alot in temp drive. Use this code to clear temp while the script is running.
+    Vips stores alot in temp, use this code to clear temp while the script is running.
     """
     clr_tmp = ["del", "/q/f/s", r"%TEMP%\*"]
     subprocess.call(clr_tmp, shell=True)
