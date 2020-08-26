@@ -1,5 +1,5 @@
 """
-This module can be used to preprocess the LKS Dataset (https://github.com/cradleai/LKS-Dataset
+This module can be used to preprocess the LKS Dataset (https://github.com/cradleai/LKS-Dataset)
 as described in the paper - SOS: Selective Objective Switch for Rapid Immunofluorescence Whole
 Slide Image Classification (DOI: 10.1109/CVPR42600.2020.00392).
 
