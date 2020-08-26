@@ -7,6 +7,10 @@ Dependencies:
 This module requires the libvips image processing library which can be
 downloaded from: https://libvips.github.io/libvips/
 
+Running the Script:
+To use this module, simply modify the source and target dataset path variables (lines 22 and 23)
+and run the script.
+
 Written by Sam Maksoud 26/08/2020
 Permitted for reuse with acknowledgement
 """
@@ -15,6 +19,7 @@ import csv
 import os
 import subprocess
 
+#Modify these variables to suit your environment.
 SOURCE_DPATH = "P:/LKS/dataset" #Path to source dataset
 TARGET_DPATH = "C:/workspace/prepro_lks" #Path to save preprocessed images
 
@@ -56,7 +61,7 @@ def preprocess_image(dsplit, _class, fname):
     os.remove(croptif)
     os.rename("%s_files"%patch_dir, patch_dir.replace("files", "patches"))
 
-    clear_temp() #uncomment this line to clear temp files while running script
+    #clear_temp() #uncomment this line to clear temp files while running script
 
 def main():
     """This function will parse the labels and image paths in both Train and Test sets
