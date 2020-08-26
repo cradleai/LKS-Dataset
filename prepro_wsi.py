@@ -8,7 +8,7 @@ This module requires the libvips image processing library which can be
 downloaded from: https://libvips.github.io/libvips/
 
 Running the Script:
-To use this module, simply modify the source and target dataset path variables (lines 22 and 23)
+To use this module, simply modify the source and target dataset path variables (lines 23 and 24)
 and run the script.
 
 Written by Sam Maksoud 26/08/2020
