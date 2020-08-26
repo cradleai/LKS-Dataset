@@ -34,7 +34,7 @@ def clear_temp():
 def preprocess_image(dsplit, _class, fname):
     """
     This function will preprocess the WSI "fname"
-    and store files in the directory "./TARGET_DPATH/dsplit/_class"
+    and store files in the directory "./TARGET_DPATH/dsplit/_class/name"
     """
     name = fname.replace(".tif","")
     target_dir = os.path.join(TARGET_DPATH,dsplit, _class,name)
