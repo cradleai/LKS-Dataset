@@ -74,10 +74,8 @@ def main():
             for row in csv_reader:
                 fname = row[0]
                 _class = row[1]
-                print(os.path.join(TARGET_DPATH,_class))
                 os.makedirs(os.path.join(TARGET_DPATH,_class), exist_ok=True)
                 preprocess_image(dsplit, _class, fname)
-                input("and??")
 
 if __name__ == "__main__":
     main()
